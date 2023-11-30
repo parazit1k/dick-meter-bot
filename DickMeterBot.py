@@ -8,7 +8,6 @@ from aiogram.enums import ParseMode
 from Handlers.Commands.start import start_router
 from Handlers.Commands.metr import dick_router
 
-
 TOKEN = ""
 
 
